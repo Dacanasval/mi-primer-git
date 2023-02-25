@@ -1,0 +1,2 @@
+en la clase anterior vimos lo que es git bash tratando de administrar propyectos para trabajo en equipo quedando en una copia de seguridad,
+como ingresar nombre, correo, crear carpeta, agregar archivos, etc.
